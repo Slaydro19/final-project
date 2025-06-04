@@ -1,8 +1,5 @@
-# Password Gameplan Manual: Lock Down Your Online Accounts
-
----
-
-## Section 1: Why Strong Passwords Matter
+# Password Manager Manual
+# Why Strong Passwords Matter
 Too many people get hacked just because their passwords are weak. Hackers use tools to guess things like names, birthdays, or common passwords like "123456." A strong password makes it way harder for someone to break in and mess with your info.
 
 ---
@@ -92,6 +89,59 @@ Modern phones and laptops use facial recognition to unlock devices and authorize
 5. Follow the prompts to connect your device or scan a QR code.  
 
 **Pro Tip:** Use more than one method. Example: Authenticator app + Face ID. That way, even if one fails, you have a backup.
+
+# Using BitWarden To Store Passwords
+### Step 1: Create an Account
+1. Go to [bitwarden.com](https://bitwarden.com).
+2. Click the “Get Started for Free” button in the top right corner.
+3. Fill out the registration form. Choose `bitwarden.com` as the server location (unless you’re in the EU).
+4. Verify your email by checking your inbox (Gmail is often the easiest).
+
+![1](https://github.com/user-attachments/assets/89c5bfd8-1157-4c37-a219-cb4e5daeed31)
+
+
+![2](https://github.com/user-attachments/assets/8f70af89-8c2e-4080-b05f-7cef8252c06f)
+
+![3](https://github.com/user-attachments/assets/ebbc1657-bac8-46d9-9289-9f6d3271949f)
+
+
+### Step 2: Create a Strong Master Password
+1. Bitwarden will ask you to set a master password. Refer to Section 2 of this manual on how to make it secure.
+2. Confirm the password and create your account.
+
+### Step 3: Install the Browser Extension
+1. Once logged in, you’ll be redirected to your homepage.
+2. Click on “Install Browser Extension” to add Bitwarden to your preferred browser.
+3. This will allow Bitwarden to autofill logins on websites.
+4. Go to your browser’s extension menu () and locate Bitwarden. (Microsoft Edge is used in this example)
+5. Click the thumbtack icon to pin the Bitwarden extension
+6. Login using the master email and password created in step 2
+
+![4](https://github.com/user-attachments/assets/071fc109-ca8d-44e6-899a-f7fcd5857f00)
+
+![8](https://github.com/user-attachments/assets/873e3c8b-25e1-4e8c-ace1-f81f3a631f85)
+
+
+### Step 4: Add Your First Login
+1. Click the “+ New” button in the app or extension.
+2. From the dropdown, select “Login.”
+3. Enter the website URL, your username, and password.
+4. Give the entry a clear name (e.g., “Gmail Account”) and save it.
+
+![5](https://github.com/user-attachments/assets/919732f0-af24-40c9-a317-8277772990a4)
+
+![6](https://github.com/user-attachments/assets/ec3e6560-d0d3-4c82-965b-fa12845fba37)
+
+![7](https://github.com/user-attachments/assets/37156bb2-21bb-4002-bcce-324e0620f68a)
+
+
+
+### Step 5: Use Bitwarden to Autofill Passwords
+• When you visit a site, Bitwarden will detect the login form and offer to autofill your credentials.  
+• You can also generate new strong passwords using the built-in generator.  
+• Repeat the process to add more logins as needed.
+
+With Bitwarden set up, you now have an easy and secure way to manage all your passwords in one place.
 
 ---
 
