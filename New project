@@ -142,8 +142,55 @@ Modern phones and laptops use facial recognition to unlock devices and authorize
 • Repeat the process to add more logins as needed.
 
 With Bitwarden set up, you now have an easy and secure way to manage all your passwords in one place.
+Browser Autofill vs. Password Managers
 
----
+## Browser Autofill Issues
+
+• Not encrypted like dedicated password managers.
+• Only works in one browser.
+• If someone accesses your device, they can see saved passwords.• No alerts for reused or weak passwords.
+
+## Why password managers are better
+
+• Fully encrypted.
+• Sync across devices and platforms.
+• Built-in generators for strong passwords.
+• Make unique passwords easier to manage.
+
+## How I’d Secure My Own Accounts Today
+
+Secure email with a strong password and enable 2FA.
+
+Install Bitwarden and make a solid master password.
+
+Change all my logins to unique, strong passwords.
+
+Turn on 2FA for every important account.
+
+Delete old accounts I don’t use.
+
+Check security monthly.
+
+Common Mistakes to Avoid
+
+• Using the same password everywhere.
+• Writing passwords on sticky notes.
+Ignoring 2FA.
+• Short, easy-to-guess passwords.
+• Relying only on browser autofill.
+• Not updating after a breach.
+
+Quick FAQ
+
+What if I forget my Bitwarden master password?You're locked out. No reset. Pick something strong but memorable.
+
+Can I use Face ID with Bitwarden?Yes, for convenience—but it doesn’t replace your master password.
+
+Is Chrome/Safari autofill okay?It’s alright, but not as secure or full-featured as Bitwarden.
+
+Do I need 2FA everywhere?Not everywhere, but definitely on email, banking, and social media.
+
+Can Bitwarden be hacked?It’s encrypted, so without your master password, it’s extremely hard.
 
 ## Final Words
 This guide is for people who want to stay safe online without getting overwhelmed. If you’re not super techy, no worries—these basics will keep your accounts locked down. Cybersecurity doesn’t have to be complicated. Just smart.
